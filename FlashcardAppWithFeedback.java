@@ -34,7 +34,7 @@ public class FlashcardAppWithFeedback {
             JButton optionButton = new JButton();
             optionButtons.add(optionButton);
             optionsPanel.add(optionButton);
-            int finalI = i; // Required for lambda expressions
+            int finalI = i; 
             optionButton.addActionListener(e -> checkAnswer(finalI));
         }
 
@@ -58,7 +58,6 @@ public class FlashcardAppWithFeedback {
 
         updateFlashcardDisplay();
 
-        // Add action listeners
         nextButton.addActionListener(e -> nextFlashcard());
         previousButton.addActionListener(e -> previousFlashcard());
         addCardButton.addActionListener(e -> addFlashcard());
