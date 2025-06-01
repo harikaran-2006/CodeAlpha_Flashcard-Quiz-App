@@ -1,4 +1,4 @@
-Flashcard Quiz Application Description
+Flashcard Quiz Application Description:
 The Flashcard Quiz Application is a user-friendly program designed to make learning engaging and efficient. Whether you're a student preparing for an exam, a teacher creating a study tool for your class, or simply someone looking to improve your knowledge, this app provides an effective way to study using interactive flashcards.
 
 Key Features
